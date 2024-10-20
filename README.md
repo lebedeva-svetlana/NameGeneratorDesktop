@@ -30,4 +30,4 @@ New endings and English language may be added in the future.
 
 - Double letter frequency percent — 25%.
 - Language — Russian.
-- Endings type — Russina base endings.
+- Endings type — Russian base endings.
