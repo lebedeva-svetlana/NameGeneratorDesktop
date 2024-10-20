@@ -6,11 +6,28 @@
 
 Fictional name generator.
 
+![image](https://user-images.githubusercontent.com/91262515/200020858-5abdbe0c-a580-49b3-8f4e-d0f4c9400a6c.png)
+
 ## Requirements
 
 - Windows 7+
 - .NET Core 5.0
 
-## Usage
+## Options
 
-![image](https://user-images.githubusercontent.com/91262515/200020858-5abdbe0c-a580-49b3-8f4e-d0f4c9400a6c.png)
+### Available Options
+
+- Double consonant requirement — any, required or forbidden.
+- Double vowel requirement — any, required or forbidden.
+- Max consonant in row — number of consonant letters that can be repeated in a row.
+- Max vowel in row — number of consonant vowel that can be repeated in a row.
+- Sex ending — male, female or any ending.
+- Length — length without ending.
+
+### Fixed Options
+
+New endings and English language may be added in the future.
+
+- Double letter frequency percent — 25%.
+- Language — Russian.
+- Endings type — Russina base endings.
